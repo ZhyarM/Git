@@ -1,4 +1,5 @@
-## Hey everyone, welcome to my Git!
+## Welcome to git
 
 -Hey, Zhyar is here!
--I'm adding this from 'feature-branch'
+-This is coming from dev-zhyar
+-I'm adding this from 'feature-branch' 
